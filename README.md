@@ -1,0 +1,4 @@
+pyDLNA
+======
+
+Python DLNA library
